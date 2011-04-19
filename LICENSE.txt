@@ -1,0 +1,1 @@
+ZK-Codemirror is licensed under LGPL.
